@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Block 1",
+        "description": "Satellite Town Block 1",
+        "landmarks": ["University of Sargodha"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6645, 32.0845],
+          [72.6745, 32.0845],
+          [72.6745, 32.0785],
+          [72.6645, 32.0785],
+          [72.6645, 32.0845]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Civil Lines",
+        "description": "Administrative and residential area",
+        "landmarks": ["DHQ Hospital"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6745, 32.0845],
+          [72.6845, 32.0845],
+          [72.6845, 32.0785],
+          [72.6745, 32.0785],
+          [72.6745, 32.0845]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muslim Bazaar",
+        "description": "Central commercial district",
+        "landmarks": ["Central Mosque"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6695, 32.0785],
+          [72.6795, 32.0785],
+          [72.6795, 32.0725],
+          [72.6695, 32.0725],
+          [72.6695, 32.0785]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chowk Sadar",
+        "description": "Historic city center",
+        "landmarks": ["Clock Tower"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6745, 32.0725],
+          [72.6845, 32.0725],
+          [72.6845, 32.0665],
+          [72.6745, 32.0665],
+          [72.6745, 32.0725]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Block 47",
+        "description": "Modern residential area",
+        "landmarks": ["47 Market"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6845, 32.0785],
+          [72.6945, 32.0785],
+          [72.6945, 32.0725],
+          [72.6845, 32.0725],
+          [72.6845, 32.0785]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Satellite Town",
+        "description": "Planned residential district",
+        "landmarks": ["Sargodha Arts Council"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6595, 32.0885],
+          [72.6695, 32.0885],
+          [72.6695, 32.0825],
+          [72.6595, 32.0825],
+          [72.6595, 32.0885]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queens Colony",
+        "description": "Upscale residential area",
+        "landmarks": ["Army Stadium"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6795, 32.0885],
+          [72.6895, 32.0885],
+          [72.6895, 32.0825],
+          [72.6795, 32.0825],
+          [72.6795, 32.0885]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Block 21",
+        "description": "Mixed commercial and residential",
+        "landmarks": ["Government College"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6695, 32.0725],
+          [72.6795, 32.0725],
+          [72.6795, 32.0665],
+          [72.6695, 32.0665],
+          [72.6695, 32.0725]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Military Area",
+        "description": "PAF Base and facilities",
+        "landmarks": ["PAF Base"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6895, 32.0925],
+          [72.7095, 32.0925],
+          [72.7095, 32.0825],
+          [72.6895, 32.0825],
+          [72.6895, 32.0925]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cantt Area",
+        "description": "Cantonment district",
+        "landmarks": ["Military Hospital"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6945, 32.0825],
+          [72.7045, 32.0825],
+          [72.7045, 32.0725],
+          [72.6945, 32.0725],
+          [72.6945, 32.0825]
+        ]]
+      }
+    }
+  ]
+}

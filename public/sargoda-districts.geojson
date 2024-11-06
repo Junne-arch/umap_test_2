@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Block 1",
+        "description": "Satellite Town Block 1",
+        "landmarks": ["University of Sargodha"],
+        "temperatures": [34, 36, 39, 42, 44, 45, 46, 45, 43, 40, 37, 35]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6645, 32.0845],
+          [72.6745, 32.0845],
+          [72.6745, 32.0785],
+          [72.6645, 32.0785],
+          [72.6645, 32.0845]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Civil Lines",
+        "description": "Administrative and residential area",
+        "landmarks": ["DHQ Hospital"],
+        "temperatures": [33, 35, 38, 41, 43, 44, 45, 44, 42, 39, 36, 34]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6745, 32.0845],
+          [72.6845, 32.0845],
+          [72.6845, 32.0785],
+          [72.6745, 32.0785],
+          [72.6745, 32.0845]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Muslim Bazaar",
+        "description": "Central commercial district",
+        "landmarks": ["Central Mosque"],
+        "temperatures": [35, 37, 40, 43, 45, 46, 47, 46, 44, 41, 38, 36]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [72.6695, 32.0785],
+          [72.6795, 32.0785],
+          [72.6795, 32.0725],
+          [72.6695, 32.0725],
+          [72.6695, 32.0785]
+        ]]
+      }
+    }
+  ]
+}

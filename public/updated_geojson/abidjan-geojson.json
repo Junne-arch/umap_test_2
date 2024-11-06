@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plateau",
+        "description": "Central Business District",
+        "landmarks": ["Cathedral", "Presidential Palace"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-4.0250, 5.3230],
+          [-4.0150, 5.3230],
+          [-4.0150, 5.3180],
+          [-4.0250, 5.3180],
+          [-4.0250, 5.3230]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocody",
+        "description": "Upscale residential district",
+        "landmarks": ["University of Cocody", "Hotel Ivoire"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-4.0150, 5.3580],
+          [-3.9950, 5.3580],
+          [-3.9950, 5.3380],
+          [-4.0150, 5.3380],
+          [-4.0150, 5.3580]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treichville",
+        "description": "Commercial and entertainment hub",
+        "landmarks": ["Sports Palace", "Autonomous Port"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-4.0050, 5.3080],
+          [-3.9950, 5.3080],
+          [-3.9950, 5.2980],
+          [-4.0050, 5.2980],
+          [-4.0050, 5.3080]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marcory",
+        "description": "Mixed residential and commercial",
+        "landmarks": ["Cap Sud Shopping Center"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-3.9950, 5.3080],
+          [-3.9750, 5.3080],
+          [-3.9750, 5.2980],
+          [-3.9950, 5.2980],
+          [-3.9950, 5.3080]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adjame",
+        "description": "Major transport hub",
+        "landmarks": ["Grand Marché", "Transport Terminal"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-4.0250, 5.3480],
+          [-4.0150, 5.3480],
+          [-4.0150, 5.3380],
+          [-4.0250, 5.3380],
+          [-4.0250, 5.3480]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koumassi",
+        "description": "Industrial and residential zone",
+        "landmarks": ["Industrial Zone", "Koumassi Market"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-3.9850, 5.2980],
+          [-3.9650, 5.2980],
+          [-3.9650, 5.2880],
+          [-3.9850, 5.2880],
+          [-3.9850, 5.2980]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yopougon",
+        "description": "Largest residential district",
+        "landmarks": ["SICOGI Housing", "Industrial Zone"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-4.0850, 5.3380],
+          [-4.0550, 5.3380],
+          [-4.0550, 5.3180],
+          [-4.0850, 5.3180],
+          [-4.0850, 5.3380]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port-Bouët",
+        "description": "Coastal district with airport",
+        "landmarks": ["Felix Houphouet-Boigny Airport", "Beach"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-3.9650, 5.2880],
+          [-3.9350, 5.2880],
+          [-3.9350, 5.2780],
+          [-3.9650, 5.2780],
+          [-3.9650, 5.2880]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abobo",
+        "description": "Populous residential district",
+        "landmarks": ["Abobo Market", "Abobo Train Station"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-4.0250, 5.3980],
+          [-3.9950, 5.3980],
+          [-3.9950, 5.3780],
+          [-4.0250, 5.3780],
+          [-4.0250, 5.3980]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attécoubé",
+        "description": "Mixed district with forest reserve",
+        "landmarks": ["Banco Forest", "Attécoubé Market"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-4.0450, 5.3380],
+          [-4.0250, 5.3380],
+          [-4.0250, 5.3280],
+          [-4.0450, 5.3280],
+          [-4.0450, 5.3380]
+        ]]
+      }
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plateau",
+        "description": "Central Business District",
+        "landmarks": ["Cathedral", "Presidential Palace"],
+        "temperatures": [31, 32, 33, 34, 35, 34, 33, 32, 31, 30, 29, 30]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-4.0250, 5.3230],
+          [-4.0150, 5.3230],
+          [-4.0150, 5.3180],
+          [-4.0250, 5.3180],
+          [-4.0250, 5.3230]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocody",
+        "description": "Upscale residential district",
+        "landmarks": ["University of Cocody", "Hotel Ivoire"],
+        "temperatures": [30, 31, 32, 33, 34, 33, 32, 31, 30, 29, 28, 29]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-4.0150, 5.3580],
+          [-3.9950, 5.3580],
+          [-3.9950, 5.3380],
+          [-4.0150, 5.3380],
+          [-4.0150, 5.3580]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treichville",
+        "description": "Commercial and entertainment hub",
+        "landmarks": ["Sports Palace", "Autonomous Port"],
+        "temperatures": [32, 33, 34, 35, 36, 35, 34, 33, 32, 31, 30, 31]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-4.0050, 5.3080],
+          [-3.9950, 5.3080],
+          [-3.9950, 5.2980],
+          [-4.0050, 5.2980],
+          [-4.0050, 5.3080]
+        ]]
+      }
+    }
+  ]
+}

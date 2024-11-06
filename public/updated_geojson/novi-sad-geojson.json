@@ -1,0 +1,186 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stari Grad",
+        "description": "City Centre / Historical center",
+        "landmarks": ["Krafter Burger", "Diner Bros"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [19.8425, 45.2545],
+          [19.8495, 45.2545],
+          [19.8515, 45.2525],
+          [19.8515, 45.2485],
+          [19.8425, 45.2485],
+          [19.8425, 45.2545]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liman",
+        "description": "Riverside district south of city center",
+        "landmarks": ["Hostel Klara"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [19.8375, 45.2485],
+          [19.8525, 45.2485],
+          [19.8525, 45.2435],
+          [19.8375, 45.2435],
+          [19.8375, 45.2485]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Telep",
+        "description": "Southwestern residential district",
+        "landmarks": ["Villa Palace Novi Sad"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [19.8275, 45.2485],
+          [19.8375, 45.2485],
+          [19.8375, 45.2385],
+          [19.8275, 45.2385],
+          [19.8275, 45.2485]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Detelinara",
+        "description": "Western district",
+        "landmarks": ["Raiffeisen banka"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [19.8275, 45.2585],
+          [19.8375, 45.2585],
+          [19.8375, 45.2485],
+          [19.8275, 45.2485],
+          [19.8275, 45.2585]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rotkvarija",
+        "description": "Central-northern district",
+        "landmarks": []
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [19.8375, 45.2585],
+          [19.8475, 45.2585],
+          [19.8475, 45.2545],
+          [19.8375, 45.2545],
+          [19.8375, 45.2585]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Salajka",
+        "description": "Northern district",
+        "landmarks": ["Lidl", "Tržni Centar Big"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [19.8375, 45.2685],
+          [19.8475, 45.2685],
+          [19.8475, 45.2585],
+          [19.8375, 45.2585],
+          [19.8375, 45.2685]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Podbara",
+        "description": "Northeastern district",
+        "landmarks": []
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [19.8475, 45.2585],
+          [19.8575, 45.2585],
+          [19.8575, 45.2525],
+          [19.8475, 45.2525],
+          [19.8475, 45.2585]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bistrica",
+        "description": "Western residential area",
+        "landmarks": ["Wurth Pick&Go"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [19.8225, 45.2585],
+          [19.8275, 45.2585],
+          [19.8275, 45.2485],
+          [19.8225, 45.2485],
+          [19.8225, 45.2585]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sajmište",
+        "description": "Central district",
+        "landmarks": []
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [19.8375, 45.2545],
+          [19.8425, 45.2545],
+          [19.8425, 45.2485],
+          [19.8375, 45.2485],
+          [19.8375, 45.2545]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grbavica",
+        "description": "Central-eastern district",
+        "landmarks": ["GOLD NEKRETNINE"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [19.8425, 45.2485],
+          [19.8515, 45.2485],
+          [19.8515, 45.2435],
+          [19.8425, 45.2435],
+          [19.8425, 45.2485]
+        ]]
+      }
+    }
+  ]
+}

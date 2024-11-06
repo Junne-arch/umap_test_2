@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Business District",
+        "description": "Downtown core",
+        "landmarks": ["KICC", "Hilton Hotel", "City Market"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.8200, -1.2850],
+          [36.8300, -1.2850],
+          [36.8300, -1.2950],
+          [36.8200, -1.2950],
+          [36.8200, -1.2850]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westlands",
+        "description": "Commercial and diplomatic district",
+        "landmarks": ["Sarit Centre", "The Oval"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.8000, -1.2650],
+          [36.8150, -1.2650],
+          [36.8150, -1.2750],
+          [36.8000, -1.2750],
+          [36.8000, -1.2650]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kilimani",
+        "description": "Upscale residential and business area",
+        "landmarks": ["Yaya Centre", "Adlife Plaza"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.7900, -1.2850],
+          [36.8000, -1.2850],
+          [36.8000, -1.2950],
+          [36.7900, -1.2950],
+          [36.7900, -1.2850]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karen",
+        "description": "Affluent suburban area",
+        "landmarks": ["Karen Blixen Museum", "The Hub"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.7000, -1.3200],
+          [36.7200, -1.3200],
+          [36.7200, -1.3400],
+          [36.7000, -1.3400],
+          [36.7000, -1.3200]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastleigh",
+        "description": "Commercial and residential district",
+        "landmarks": ["Eastleigh Mall", "First Avenue"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.8400, -1.2750],
+          [36.8500, -1.2750],
+          [36.8500, -1.2850],
+          [36.8400, -1.2850],
+          [36.8400, -1.2750]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upperhill",
+        "description": "Financial district",
+        "landmarks": ["Kenyatta National Hospital", "Times Tower"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.8150, -1.2950],
+          [36.8250, -1.2950],
+          [36.8250, -1.3050],
+          [36.8150, -1.3050],
+          [36.8150, -1.2950]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parklands",
+        "description": "Mixed residential and commercial",
+        "landmarks": ["Aga Khan Hospital", "Diamond Plaza"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.8100, -1.2650],
+          [36.8200, -1.2650],
+          [36.8200, -1.2750],
+          [36.8100, -1.2750],
+          [36.8100, -1.2650]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Industrial Area",
+        "description": "Manufacturing and logistics hub",
+        "landmarks": ["Gikomba Market", "Enterprise Road"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.8500, -1.3050],
+          [36.8700, -1.3050],
+          [36.8700, -1.3200],
+          [36.8500, -1.3200],
+          [36.8500, -1.3050]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lavington",
+        "description": "Upscale residential area",
+        "landmarks": ["Lavington Mall", "Kawangware Market"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.7700, -1.2850],
+          [36.7850, -1.2850],
+          [36.7850, -1.2950],
+          [36.7700, -1.2950],
+          [36.7700, -1.2850]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gigiri",
+        "description": "Diplomatic zone",
+        "landmarks": ["UN Complex", "US Embassy", "Village Market"]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.8000, -1.2350],
+          [36.8200, -1.2350],
+          [36.8200, -1.2450],
+          [36.8000, -1.2450],
+          [36.8000, -1.2350]
+        ]]
+      }
+    }
+  ]
+}

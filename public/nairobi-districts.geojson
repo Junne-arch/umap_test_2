@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Central Business District",
+        "description": "Downtown core",
+        "landmarks": ["KICC", "Hilton Hotel", "City Market"],
+        "temperatures": [25, 26, 27, 28, 29, 28, 27, 26, 25, 24, 23, 24]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.8200, -1.2850],
+          [36.8300, -1.2850],
+          [36.8300, -1.2950],
+          [36.8200, -1.2950],
+          [36.8200, -1.2850]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westlands",
+        "description": "Commercial and diplomatic district",
+        "landmarks": ["Sarit Centre", "The Oval"],
+        "temperatures": [24, 25, 26, 27, 28, 27, 26, 25, 24, 23, 22, 23]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.8000, -1.2650],
+          [36.8150, -1.2650],
+          [36.8150, -1.2750],
+          [36.8000, -1.2750],
+          [36.8000, -1.2650]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Industrial Area",
+        "description": "Manufacturing and logistics hub",
+        "landmarks": ["Gikomba Market", "Enterprise Road"],
+        "temperatures": [26, 27, 28, 29, 30, 29, 28, 27, 26, 25, 24, 25]
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [36.8500, -1.3050],
+          [36.8700, -1.3050],
+          [36.8700, -1.3200],
+          [36.8500, -1.3200],
+          [36.8500, -1.3050]
+        ]]
+      }
+    }
+  ]
+}
